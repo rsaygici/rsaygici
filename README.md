@@ -1,4 +1,6 @@
-👨‍💻 Reşat Saygıcı | Cybersecurity & Sales Specialist
+<h3>Hi, I'm Reşat!<h3>
+
+Cybersecurity Enthusiast | Ethical Hacker | SOC & Incident Response
 
 Welcome to my portfolio! This repository showcases my projects and experience in:
 

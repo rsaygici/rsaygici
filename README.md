@@ -35,4 +35,4 @@ Welcome to my portfolio! This repository showcases my projects and experience in
 
 ## 📫 Contact
 - 📧  r.saygici@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/reşat-saygıcı)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/reşat-saygıcı-cybersecurityengineer)
